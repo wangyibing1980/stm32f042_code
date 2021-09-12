@@ -2,7 +2,7 @@
 ..\obj\motor.o: ..\HARDWARE\MOTOR\motor.h
 ..\obj\motor.o: ..\Libraries\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h
 ..\obj\motor.o: ..\Libraries\CMSIS\Include\core_cm0.h
-..\obj\motor.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\motor.o: D:\Program Files\Keil_v5\ARM\ARMCC\include\stdint.h
 ..\obj\motor.o: ..\Libraries\CMSIS\Include\core_cmInstr.h
 ..\obj\motor.o: ..\Libraries\CMSIS\Include\core_cmFunc.h
 ..\obj\motor.o: ..\Libraries\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h

@@ -2,7 +2,7 @@
 ..\obj\systick.o: ..\HARDWARE\SYSTICK\systick.h
 ..\obj\systick.o: ..\Libraries\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h
 ..\obj\systick.o: ..\Libraries\CMSIS\Include\core_cm0.h
-..\obj\systick.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\systick.o: D:\Program Files\Keil_v5\ARM\ARMCC\include\stdint.h
 ..\obj\systick.o: ..\Libraries\CMSIS\Include\core_cmInstr.h
 ..\obj\systick.o: ..\Libraries\CMSIS\Include\core_cmFunc.h
 ..\obj\systick.o: ..\Libraries\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h

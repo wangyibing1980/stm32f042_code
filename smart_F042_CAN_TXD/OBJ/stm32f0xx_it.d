@@ -2,7 +2,7 @@
 ..\obj\stm32f0xx_it.o: ..\USR\stm32f0xx_it.h
 ..\obj\stm32f0xx_it.o: ..\Libraries\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h
 ..\obj\stm32f0xx_it.o: ..\Libraries\CMSIS\Include\core_cm0.h
-..\obj\stm32f0xx_it.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\stm32f0xx_it.o: D:\Program Files\Keil_v5\ARM\ARMCC\include\stdint.h
 ..\obj\stm32f0xx_it.o: ..\Libraries\CMSIS\Include\core_cmInstr.h
 ..\obj\stm32f0xx_it.o: ..\Libraries\CMSIS\Include\core_cmFunc.h
 ..\obj\stm32f0xx_it.o: ..\Libraries\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h
